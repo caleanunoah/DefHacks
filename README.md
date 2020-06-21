@@ -11,7 +11,7 @@ hilarious image!
  - [Vishal Desh](https://github.com/VDeshh)
  - [Noah Caleneau](https://github.com/)
  - [Arash Rizvi](https://github.com/)
- - [HarditSingh]((https://github.com/)
+ - [HarditSingh](https://github.com/)
  - [Suraj Puvvadi](https://github.com/)
 
 
