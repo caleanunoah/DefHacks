@@ -40,6 +40,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 In the project directory, you can run:
 
+## Pull Requests
+
+1. Just fork a version of this repository, make the changes you want to, and make a pull request.  
+2. All the members of the Hackathon team will review the pull request, and accept or reject any incoming changes after testing.  
+
 ## Learn More
 
 You can learn more in the [Android Studio documentation](https://developer.android.com/distribute/best-practices/develop/index.html?gclid=Cj0KCQjwirz3BRD_ARIsAImf7LOB1IG9HhEE2wNpg-I6oHEKPGXEDOC9_SKUltyw4SR4qsYjci9j3wMaAtU7EALw_wcB).
