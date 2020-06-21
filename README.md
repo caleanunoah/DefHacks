@@ -1,4 +1,4 @@
-# FlexClinic <img align="right" alt="FlexClinic" src="./unknown.png" width="150px" height="150px" style="border-radius: 25px;">
+# FlexClinic <img align="right" alt="FlexClinic" src="./unknown.png" width="350px" height="350px" style="border-radius: 25px;">
 
 
 ## About This Project
