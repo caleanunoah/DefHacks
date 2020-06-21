@@ -9,9 +9,9 @@ hilarious image!
 
 ## Authors
  - [Vishal Desh](https://github.com/VDeshh)
- - [Noah Caleneau](https://github.com/)
- - [Arash Rizvi](https://github.com/)
- - [HarditSingh](https://github.com/)
+ - [Noah Caleneau](https://github.com/caleanunoah)
+ - [Arash Rizvi](https://github.com/rizvi95/)
+ - [HarditSingh](https://github.com/HSHarditSingh)
  - [Suraj Puvvadi](https://github.com/)
 
 
