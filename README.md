@@ -1,7 +1,6 @@
-# Pose Estimation Demo App with Data Collection
+# Physiotherapy Android App using AI/AR
 
-[ ![Codeship Status for fritzlabs/fritz-sdk-android](https://app.codeship.com/projects/c74152e0-65d1-0136-2d69-32e87736c6c6/status?branch=master)](https://app.codeship.com/projects/297281)
-[![Twitter](https://img.shields.io/badge/twitter-@fritzlabs-blue.svg?style=flat)](http://twitter.com/fritzlabs)
+
 
 In this app, the user detects human poses and records the result to Fritz. For an example of a real time implementation of pose estimation, check out the [Fritz AI Studio app](https://github.com/fritzlabs/fritz-examples/blob/master/Android/FritzAIStudio/app/src/main/java/ai/fritz/aistudio/activities/vision/PoseEstimationActivity.java)
 
