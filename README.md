@@ -1,4 +1,4 @@
-# FlexClinic <img align="right" alt="CoviDonate" src="./public/assets/logo.svg" width="150px" height="150px" style="border-radius: 25px;">
+# FlexClinic <img align="right" alt="FlexClinic" src="./public/unknown.png" width="150px" height="150px" style="border-radius: 25px;">
 
 
 ## About This Project
