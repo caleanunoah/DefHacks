@@ -2,10 +2,13 @@
 
 
 ## About This Project
-Quadoodle is a hackathon project that we four created. Its a fun easy 
-way to play some funny games online with your friends or strangers!
-Draw a quadrant of a drawing and align with others to create a 
-hilarious image!
+FlexClinic is a hackathon project that we five created. Its an Artificial Intellegence and 
+and Augmented Reality app to assist users with physiotherapy based on the issue diagnosed by the
+custom Machine learning model for the symptoms. Due to Covid-19 most clincs and hospitals are
+really busy and often you might not find a spot. We use a custom traffic routing algorithm to sort clinics available for you.
+Users can consult a doctor and proceed with the app for virtual treatment or
+book an appoimtement.
+Solve all your muscular issues with FlexClinic during this pandemic!
 
 ## Authors
  - [Vishal Desh](https://github.com/VDeshh)
