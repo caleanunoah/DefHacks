@@ -1,11 +1,5 @@
 # Physiotherapy Android App using AI/AR
 
-
-## Fritz AI
-
-Fritz AI is the machine learning platform for iOS and Android developers. Teach your mobile apps to see, hear, sense, and think. Start with our ready-to-use feature APIs or connect and deploy your own custom models.
-.
-
 **Build the Android Studio Project**
 
 Select "Build > Make Project" from the top nav. 
