@@ -78,10 +78,13 @@ public class MainActivity extends BaseCameraActivity implements ImageReader.OnIm
     Button recordButton;
     ProgressBar recordSpinner;
 
+    String disease= new String();
 
     @Override
     public void onCreate(final Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        disease = getIntent().getStringExtra("key");
+
         Fritz.configure(this);
         // The code below loads a custom trained pose estimation model and creates a predictor that will be used to identify poses in live video.
         // Custom pose estimation models can be trained with the Fritz AI platform. To use a pre-trained pose estimation model,
@@ -126,7 +129,8 @@ public class MainActivity extends BaseCameraActivity implements ImageReader.OnIm
             }
         });
 
-        switch (3) {
+        /*
+        switch (1) {
             case 1:
                 shoulderpress();
                 //case 2:
@@ -136,7 +140,18 @@ public class MainActivity extends BaseCameraActivity implements ImageReader.OnIm
                 neckRoll();
                 break;
         }
+         */
+        switch (disease) {
+            case "1":
+                shoulderpress();
+            case "2":
+                 //legSideRaise();
+                break;
+            case "3":
+                neckRoll();
+                break;
 
+        }
 
         // Snapshot View
         snapshotFrame = findViewById(R.id.snapshot_frame);

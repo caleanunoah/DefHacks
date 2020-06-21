@@ -18,6 +18,7 @@ public class InstructionActivity extends AppCompatActivity {
 
     public void fun2(View v){
         Intent i = new Intent(this, MainActivity.class);
+        i.putExtra("key","1");
         startActivity(i);
 
     }
