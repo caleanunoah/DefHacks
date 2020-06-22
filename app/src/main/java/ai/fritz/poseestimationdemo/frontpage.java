@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+
 public class frontpage extends AppCompatActivity {
 
     @Override
@@ -13,7 +14,7 @@ public class frontpage extends AppCompatActivity {
         setContentView(R.layout.activity_frontpage);
     }
     public void fun(View V){
-        Intent i = new Intent(this,InstructionActivity.class);
+        Intent i = new Intent(this, InstructionActivity.class);
         startActivity(i);
     }
 }

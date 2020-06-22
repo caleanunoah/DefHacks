@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".frontpage"
-    android:orientation="vertical
-">
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+    tools:context=".frontpage">
 
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="292dp"
-        android:layout_height="185dp"
-        android:layout_gravity="center"
-        android:layout_marginTop="35px"
-        android:onClick="fun"
-        android:text="Click To Launch"
-        android:textSize="50px"
-        android:background="#03DAC5"
-        tools:layout_editor_absoluteX="94dp"
-        tools:layout_editor_absoluteY="629dp" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FlexClinic"
+        android:textAlignment="center"
+        android:textColor="#3A3535"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toTopOf="@+id/button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_home"
+        app:layout_constraintVertical_bias="0.329" />
 
     <ImageView
         android:id="@+id/imageView"
@@ -32,18 +32,39 @@
         tools:layout_editor_absoluteX="60dp"
         tools:layout_editor_absoluteY="16dp" />
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="384dp"
-        android:layout_height="94dp"
-        android:layout_gravity="center"
-        android:gravity="center"
-        android:padding="5dp"
-        android:text="QuaranToned"
-        android:textColor="#6200EE"
-        android:textSize="90px"
-        android:typeface="serif"
-        tools:layout_editor_absoluteX="49dp"
-        tools:layout_editor_absoluteY="361dp" />
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginBottom="44dp"
+        android:text="Consult Physiotherapist"
+        app:layout_constraintBottom_toTopOf="@+id/button2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginBottom="40dp"
+        android:text="Online Physio Exercises"
+        android:onClick="fun"
+        app:layout_constraintBottom_toTopOf="@+id/button3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginBottom="204dp"
+        android:text="Check Clinic Availability"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
 
 </LinearLayout>

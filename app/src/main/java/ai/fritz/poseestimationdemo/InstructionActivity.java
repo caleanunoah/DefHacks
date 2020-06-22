@@ -7,13 +7,13 @@ import android.view.View;
 
 import ai.fritz.camera.MainActivity;
 
+
 public class InstructionActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_instruction);
-
     }
 
     public void fun2(View v){
