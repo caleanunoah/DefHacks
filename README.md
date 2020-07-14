@@ -11,7 +11,7 @@ Solve all your muscular issues with FlexClinic during this pandemic!
 
 ## Authors
  - [Vishal Desh](https://github.com/VDeshh)
- - [Noah Caleneau](https://github.com/caleanunoah)
+ - [Noah Caleanu](https://github.com/caleanunoah)
  - [Arash Rizvi](https://github.com/rizvi95/)
  - [HarditSingh](https://github.com/HSHarditSingh)
  - [Suraj Puvvadi](https://github.com/)
